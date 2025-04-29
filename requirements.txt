@@ -1,0 +1,5 @@
+rich
+questionary
+pyotp
+pyperclip
+cryptography
